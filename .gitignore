@@ -50,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Compilation output files
+*.asm
+*.lst
+*.sym
+*.adb
+*.ihx
+*.noi
+*.cdb
+
+# Rom file
+*.gb
